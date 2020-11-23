@@ -1,12 +1,14 @@
 {
     "name": "shizhongcheng/downloader",
     "description": "下载器",
+    "license": "MIT",
     "authors": [
         {
             "name": "szc",
             "email": "daobugo@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
