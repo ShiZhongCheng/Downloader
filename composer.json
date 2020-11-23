@@ -1,0 +1,16 @@
+{
+    "name": "shizhongcheng/downloader",
+    "description": "下载器",
+    "authors": [
+        {
+            "name": "szc",
+            "email": "daobugo@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SzcDownLoader\\": "src/"
+        }
+    }
+}
